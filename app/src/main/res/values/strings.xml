@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CodingChallangeUI</string>
+    <string name="login_title">LOG IN</string>
+    <string name="user_name">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login_btn">LOG IN</string>
+    <string name="sign_in">Create Account! Sign Up.</string>
+    <string name="signup_title"><br>New\n</br>Account</string>
+    <string name="profilepic_title">Choose a Profile Picture</string>
+    <string name="email">EMAIL</string>
+    <string name="signup_btn">SIGN UP</string>
+    <string name="login">Already hava an account! Log In. </string>
+    <string name="logo">logo</string>
+    <string name="profile">Profile</string>
+
+
+</resources>
